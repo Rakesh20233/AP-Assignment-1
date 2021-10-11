@@ -416,6 +416,7 @@ class AP_Assignment {
                     }
                     else if (a == b){
                         System.out.println("Status : Fully vaccinated!!");
+                        System.out.println("Vaccine Taken : " + Vaccine_Name.get(y));
                     }
                 }
             }
